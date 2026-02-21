@@ -1,0 +1,9 @@
+{
+	"name": "DevOps2",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbbb6080-3d8f-4d65-9cea-f9558fd8c666",
+		"tenantId": "59d4f249-0520-46cf-b6b2-873d5da543fe"
+	}
+}
